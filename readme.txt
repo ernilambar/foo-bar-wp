@@ -1,6 +1,6 @@
 === Foo Bar WP ===
 
-Contributors: rabmalin
+Contributors: wordpressdotorg
 Tags: foo, bar
 Requires at least: 6.0
 Requires PHP: 7.0

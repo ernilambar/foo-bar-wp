@@ -4,7 +4,7 @@
  * Plugin URI: https://example.com
  * Description: Custom plugin.
  * Version: 0.1.0
- * Author: WordPress Plugin Team
+ * Author: WordPress Team
  * Author URI: https://make.wordpress.org/plugins/
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
