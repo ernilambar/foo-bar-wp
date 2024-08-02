@@ -16,5 +16,12 @@ add_action(
   function () {
     $number = mt_rand( 10, 100 );
     echo $number;
+
+    $qargs = array(
+      'post_type'      => 'post',
+      'post_status'    => 'publish',
+      'posts_per_page' => 1000,
+      'no_found_rows'  => true,
+    );
   }
 );
