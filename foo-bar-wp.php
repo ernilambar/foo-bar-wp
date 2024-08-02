@@ -4,6 +4,8 @@
  * Plugin URI: https://example.com
  * Description: Custom plugin.
  * Version: 0.1.0
+ * Requires at least: 6.0
+ * Requires PHP: 7.0
  * Author: WordPress Team
  * Author URI: https://make.wordpress.org/plugins/
  * License: GPL-2.0+
