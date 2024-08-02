@@ -17,6 +17,9 @@ add_action(
     $number = mt_rand( 10, 100 );
     echo $number;
 
+    // By default I am not that bad. Only addon tells me such.
+    echo 'I am bad';
+
     $qargs = array(
       'post_type'      => 'post',
       'post_status'    => 'publish',
